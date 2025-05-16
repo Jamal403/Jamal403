@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jamal
 - 👀 I’m interested in web development,Data analysis,Data science and Machine learning 
 - 🌱 I’m currently learning Data science and web development
-- 💞️ I’m looking to collaborate on Data science
+- 💞️ I’m looking to collaborate on Data science and web development
 - 📫 How to reach me -/jamalabdul039@gmail.com/
 - ⚡ Fun fact: football
 
